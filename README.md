@@ -27,3 +27,5 @@
 因为需要操作excel，好像只能在windows上运行
 打包命令：pyinstaller -F begin.py -w （无命令窗口，并且压缩为单个exe）
 (写了个日志输入，error信息会打印在“日志.log”文件上）
+
+![image](https://github.com/zhishiluguoliu6/Send-rent-to-tenants-on-Wechat-/blob/master/%E7%A4%BA%E4%BE%8B%E5%9B%BE%E7%89%87/%E5%8F%91%E9%80%81%E4%BF%A1%E6%81%AF.jpg)
